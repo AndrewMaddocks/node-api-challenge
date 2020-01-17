@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+Ive learned that there are touters in express like react. ive also learned about how you need to bring in express is with the require method.
+
 - [ ] Describe Middleware?
+
+In my own words id say middleware takes a request and chooses to modify it or not if not it will go to the next action.
 
 - [ ] Describe a Resource?
 
+Everything is resource. Resources are what we are giving to a client about a specific user each resource should be accessible through a single url
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+It can return error messages to help a client troubleshoot if their code is wrong or the backend needs to be fixed.
+
 - [ ] How can we partition our application into sub-applications?
+
+I believe by adding router we can make sub components that route to a specific url path.
 
 ## Minimum Viable Product
 
